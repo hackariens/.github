@@ -2,8 +2,8 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hackariens/graphs/commit-activity)
-![Continuous Integration](https://github.com/hackariens/workflows/Continuous%20Integration/badge.svg?branch=develop)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hackariens/.github/graphs/commit-activity)
+![Continuous Integration](https://github.com/hackariens/.github/workflows/Continuous%20Integration/badge.svg?branch=develop)
 
 > Templates de mes différents projets
 
@@ -69,9 +69,9 @@ cd hackariens
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
-Feel free to check [issues page](https://github.com/hackariens/issues).
+Feel free to check [issues page](https://github.com/hackariens/.github/issues).
 You can also take a look at the
-[contributing guide](https://github.com/hackariens/blob/develop/CONTRIBUTING.md).
+[contributing guide](https://github.com/hackariens/.github/blob/develop/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -82,7 +82,7 @@ Give a ⭐️ if this project helped you!
 Copyright © 2019 [koromerzhin](https://github.com/koromerzhin).
 
 This project is
-[MIT](https://github.com/hackariens/blob/develop/LICENSE) licensed.
+[MIT](https://github.com/hackariens/.github/blob/develop/LICENSE) licensed.
 
 ## ✨ Contributors
 
