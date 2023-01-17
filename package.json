@@ -1,0 +1,22 @@
+{
+    "name": "hackariens",
+    "version": "1.0.0",
+    "description": "Templates de mes différents projets",
+    "scripts": {
+        "lint:markdown": "markdownlint profile/README.md"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hackariens/.github.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hackariens/.github/issues"
+    },
+    "homepage": "https://github.com/hackariens/.github#readme",
+    "dependencies": {
+        "korojscommands": "^1.2.7"
+    }
+}

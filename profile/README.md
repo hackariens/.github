@@ -10,7 +10,7 @@
 ## 🏠 [Homepage](https://github.com/hackariens#readme)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#-contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)]
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Infos
@@ -53,27 +53,8 @@ Software:
 ## Download
 
 ```sh
-git clone git@github.com:koromerzhin/projects.git projects
-cd projects
-git submodule update --init
-```
-
-## Install
-
-```sh
-make install
-```
-
-## after git add
-
-```sh
-make git check
-```
-
-## Help
-
-```sh
-make help
+git clone --recurse-submodules git@github.com:hackariens/.github.git hackariens
+cd hackariens
 ```
 
 ## Author
