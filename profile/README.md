@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hackariens/.github/graphs/commit-activity)
-![Continuous Integration](https://github.com/hackariens/.github/workflows/Continuous%20Integration/badge.svg?branch=develop)
+![Continuous Integration](https://github.com/hackariens/.github/workflows/ci/badge.svg?branch=develop)
 
 > Templates de mes différents projets
 
@@ -19,27 +19,27 @@
 <!-- markdownlint-disable -->
 | projet | description | Continuous Integration |
 |--|--|--|
-| angular | Nouveau projet sous angular | [![Continuous Integration](https://github.com/hackariens/angular/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/angular) |
-| django | Nouveau projet sous django | [![Continuous Integration](https://github.com/hackariens/django/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/django) |
-| drupal | Nouveau projet sous drupal | [![Continuous Integration](https://github.com/hackariens/drupal/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/drupal) |
-| electron | Nouveau projet sous electron | [![Continuous Integration](https://github.com/hackariens/electron/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/electron) |
-| expressjs | Nouveau projet sous expressjs | [![Continuous Integration](https://github.com/hackariens/expressjs/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/expressjs) |
-| flutter | Nouveau projet sous flutter | [![Continuous Integration](https://github.com/hackariens/flutter/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/flutter) |
-| github | Nouveau projet sous github | [![Continuous Integration](https://github.com/hackariens/github/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/github) |
-| joomla | Nouveau projet sous joomla | [![Continuous Integration](https://github.com/hackariens/joomla/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/joomla) |
-| laravel | Nouveau projet sous laravel | [![Continuous Integration](https://github.com/hackariens/laravel/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/laravel) |
-| nextjs | Nouveau projet sous nextjs | [![Continuous Integration](https://github.com/hackariens/nextjs/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/nextjs) |
-| nuxtjs | Nouveau projet sous nuxtjs | [![Continuous Integration](https://github.com/hackariens/nuxtjs/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/nuxtjs) |
-| phpfpm | Nouveau projet sous phpfpm | [![Continuous Integration](https://github.com/hackariens/phpfpm/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/phpfpm) |
-| prestashop | Nouveau projet sous prestashop | [![Continuous Integration](https://github.com/hackariens/prestashop/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/prestashop) |
-| quasar | Nouveau projet sous quasar | [![Continuous Integration](https://github.com/hackariens/quasar/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/quasar) |
-| react | Nouveau projet sous react | [![Continuous Integration](https://github.com/hackariens/react/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/react) |
-| strapi | Nouveau projet sous strapi | [![Continuous Integration](https://github.com/hackariens/strapi/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/strapi) |
-| sveltejs | Nouveau projet sous sveltejs | [![Continuous Integration](https://github.com/hackariens/sveltejs/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/sveltejs) |
-| socketio | Nouveau projet sous socket.io | [![Continuous Integration](https://github.com/hackariens/socketio/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/socketio) |
-| symfony | Nouveau projet sous symfony | [![Continuous Integration](https://github.com/hackariens/symfony/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/symfony) |
-| vuejs | Nouveau projet sous vuejs | [![Continuous Integration](https://github.com/hackariens/vuejs/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/vuejs) |
-| wordpress | Nouveau projet sous wordpress | [![Continuous Integration](https://github.com/hackariens/wordpress/workflows/Continuous%20Integration/badge.svg?branch=develop)](https://www.github.com/hackariens/wordpress) |
+| angular | Nouveau projet sous angular | [![Continuous Integration](https://github.com/hackariens/angular/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/angular) |
+| django | Nouveau projet sous django | [![Continuous Integration](https://github.com/hackariens/django/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/django) |
+| drupal | Nouveau projet sous drupal | [![Continuous Integration](https://github.com/hackariens/drupal/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/drupal) |
+| electron | Nouveau projet sous electron | [![Continuous Integration](https://github.com/hackariens/electron/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/electron) |
+| expressjs | Nouveau projet sous expressjs | [![Continuous Integration](https://github.com/hackariens/expressjs/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/expressjs) |
+| flutter | Nouveau projet sous flutter | [![Continuous Integration](https://github.com/hackariens/flutter/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/flutter) |
+| github | Nouveau projet sous github | [![Continuous Integration](https://github.com/hackariens/github/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/github) |
+| joomla | Nouveau projet sous joomla | [![Continuous Integration](https://github.com/hackariens/joomla/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/joomla) |
+| laravel | Nouveau projet sous laravel | [![Continuous Integration](https://github.com/hackariens/laravel/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/laravel) |
+| nextjs | Nouveau projet sous nextjs | [![Continuous Integration](https://github.com/hackariens/nextjs/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/nextjs) |
+| nuxtjs | Nouveau projet sous nuxtjs | [![Continuous Integration](https://github.com/hackariens/nuxtjs/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/nuxtjs) |
+| phpfpm | Nouveau projet sous phpfpm | [![Continuous Integration](https://github.com/hackariens/phpfpm/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/phpfpm) |
+| prestashop | Nouveau projet sous prestashop | [![Continuous Integration](https://github.com/hackariens/prestashop/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/prestashop) |
+| quasar | Nouveau projet sous quasar | [![Continuous Integration](https://github.com/hackariens/quasar/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/quasar) |
+| react | Nouveau projet sous react | [![Continuous Integration](https://github.com/hackariens/react/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/react) |
+| strapi | Nouveau projet sous strapi | [![Continuous Integration](https://github.com/hackariens/strapi/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/strapi) |
+| sveltejs | Nouveau projet sous sveltejs | [![Continuous Integration](https://github.com/hackariens/sveltejs/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/sveltejs) |
+| socketio | Nouveau projet sous socket.io | [![Continuous Integration](https://github.com/hackariens/socketio/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/socketio) |
+| symfony | Nouveau projet sous symfony | [![Continuous Integration](https://github.com/hackariens/symfony/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/symfony) |
+| vuejs | Nouveau projet sous vuejs | [![Continuous Integration](https://github.com/hackariens/vuejs/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/vuejs) |
+| wordpress | Nouveau projet sous wordpress | [![Continuous Integration](https://github.com/hackariens/wordpress/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/wordpress) |
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
@@ -47,7 +47,6 @@
 
 Software:
 
-- make
 - npm
 
 ## Download
