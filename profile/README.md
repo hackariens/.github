@@ -34,9 +34,9 @@
 | prestashop | Nouveau projet sous prestashop | [![Continuous Integration](https://github.com/hackariens/prestashop/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/prestashop) |
 | quasar | Nouveau projet sous quasar | [![Continuous Integration](https://github.com/hackariens/quasar/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/quasar) |
 | react | Nouveau projet sous react | [![Continuous Integration](https://github.com/hackariens/react/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/react) |
+| socketio | Nouveau projet sous socket.io | [![Continuous Integration](https://github.com/hackariens/socketio/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/socketio) |
 | strapi | Nouveau projet sous strapi | [![Continuous Integration](https://github.com/hackariens/strapi/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/strapi) |
 | sveltejs | Nouveau projet sous sveltejs | [![Continuous Integration](https://github.com/hackariens/sveltejs/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/sveltejs) |
-| socketio | Nouveau projet sous socket.io | [![Continuous Integration](https://github.com/hackariens/socketio/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/socketio) |
 | symfony | Nouveau projet sous symfony | [![Continuous Integration](https://github.com/hackariens/symfony/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/symfony) |
 | vuejs | Nouveau projet sous vuejs | [![Continuous Integration](https://github.com/hackariens/vuejs/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/vuejs) |
 | wordpress | Nouveau projet sous wordpress | [![Continuous Integration](https://github.com/hackariens/wordpress/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/wordpress) |
