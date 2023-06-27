@@ -37,6 +37,7 @@
 | socketio | Nouveau projet sous socket.io | [![Continuous Integration](https://github.com/hackariens/socketio/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/socketio) |
 | strapi | Nouveau projet sous strapi | [![Continuous Integration](https://github.com/hackariens/strapi/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/strapi) |
 | sveltejs | Nouveau projet sous sveltejs | [![Continuous Integration](https://github.com/hackariens/sveltejs/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/sveltejs) |
+| sylius | Nouveau projet sous sylius | [![Continuous Integration](https://github.com/hackariens/sylius/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/sylius) |
 | symfony | Nouveau projet sous symfony | [![Continuous Integration](https://github.com/hackariens/symfony/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/symfony) |
 | vuejs | Nouveau projet sous vuejs | [![Continuous Integration](https://github.com/hackariens/vuejs/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/vuejs) |
 | wordpress | Nouveau projet sous wordpress | [![Continuous Integration](https://github.com/hackariens/wordpress/workflows/ci/badge.svg?branch=develop)](https://www.github.com/hackariens/wordpress) |
