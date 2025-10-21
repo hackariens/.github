@@ -38,6 +38,7 @@
 | strapi | Nouveau projet sous strapi | [![Continuous Integration](https://github.com/hackariens/strapi/actions/workflows/ci.yml/badge.svg?branch=develop)](https://www.github.com/hackariens/strapi) |
 | sveltejs | Nouveau projet sous sveltejs | [![Continuous Integration](https://github.com/hackariens/sveltejs/actions/workflows/ci.yml/badge.svg?branch=develop)](https://www.github.com/hackariens/sveltejs) |
 | sylius | Nouveau projet sous sylius | [![Continuous Integration](https://github.com/hackariens/sylius/actions/workflows/ci.yml/badge.svg?branch=develop)](https://www.github.com/hackariens/sylius) |
+| tauri | Nouveau projet sous tauri | [![Continuous Integration](https://github.com/hackariens/tauri/actions/workflows/ci.yml/badge.svg?branch=develop)](https://www.github.com/hackariens/tauri) |
 | typo3 | Nouveau projet sous typo3 | [![Continuous Integration](https://github.com/hackariens/typo3/actions/workflows/ci.yml/badge.svg?branch=develop)](https://www.github.com/hackariens/typo3) |
 | symfony | Nouveau projet sous symfony | [![Continuous Integration](https://github.com/hackariens/symfony/actions/workflows/ci.yml/badge.svg?branch=develop)](https://www.github.com/hackariens/symfony) |
 | vuejs | Nouveau projet sous vuejs | [![Continuous Integration](https://github.com/hackariens/vuejs/actions/workflows/ci.yml/badge.svg?branch=develop)](https://www.github.com/hackariens/vuejs) |
