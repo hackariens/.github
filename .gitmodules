@@ -1,0 +1,69 @@
+[submodule "angular"]
+	path = angular
+	url = git@github.com:hackariens/angular.git
+[submodule "django"]
+	path = django
+	url = git@github.com:hackariens/django.git
+[submodule "drupal"]
+	path = drupal
+	url = git@github.com:hackariens/drupal.git
+[submodule "electron"]
+	path = electron
+	url = git@github.com:hackariens/electron.git
+[submodule "expressjs"]
+	path = expressjs
+	url = git@github.com:hackariens/expressjs.git
+[submodule "flutter"]
+	path = flutter
+	url = git@github.com:hackariens/flutter.git
+[submodule "github"]
+	path = github
+	url = git@github.com:hackariens/github.git
+[submodule "laravel"]
+	path = laravel
+	url = git@github.com:hackariens/laravel.git
+[submodule "nextjs"]
+	path = nextjs
+	url = git@github.com:hackariens/nextjs.git
+[submodule "nuxtjs"]
+	path = nuxtjs
+	url = git@github.com:hackariens/nuxtjs.git
+[submodule "phpfpm"]
+	path = phpfpm
+	url = git@github.com:hackariens/phpfpm.git
+[submodule "prestashop"]
+	path = prestashop
+	url = git@github.com:hackariens/prestashop.git
+[submodule "quasar"]
+	path = quasar
+	url = git@github.com:hackariens/quasar.git
+[submodule "react"]
+	path = react
+	url = git@github.com:hackariens/react.git
+[submodule "socketio"]
+	path = socketio
+	url = git@github.com:hackariens/socketio.git
+[submodule "strapi"]
+	path = strapi
+	url = git@github.com:hackariens/strapi.git
+[submodule "sveltejs"]
+	path = sveltejs
+	url = git@github.com:hackariens/sveltejs.git
+[submodule "sylius"]
+	path = sylius
+	url = git@github.com:hackariens/sylius.git
+[submodule "symfony"]
+	path = symfony
+	url = git@github.com:hackariens/symfony.git
+[submodule "tauri"]
+	path = tauri
+	url = git@github.com:hackariens/tauri.git
+[submodule "typo3"]
+	path = typo3
+	url = git@github.com:hackariens/typo3.git
+[submodule "vuejs"]
+	path = vuejs
+	url = git@github.com:hackariens/vuejs.git
+[submodule "wordpress"]
+	path = wordpress
+	url = git@github.com:hackariens/wordpress.git
