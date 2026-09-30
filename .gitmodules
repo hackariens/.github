@@ -43,9 +43,6 @@
 [submodule "socketio"]
 	path = socketio
 	url = git@github.com:hackariens/socketio.git
-[submodule "strapi"]
-	path = strapi
-	url = git@github.com:hackariens/strapi.git
 [submodule "sveltejs"]
 	path = sveltejs
 	url = git@github.com:hackariens/sveltejs.git
