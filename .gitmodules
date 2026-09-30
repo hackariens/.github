@@ -64,3 +64,6 @@
 [submodule "wordpress"]
 	path = wordpress
 	url = git@github.com:hackariens/wordpress.git
+[submodule "taskfiles"]
+	path = taskfiles
+	url = git@github.com:koromerzhin/taskfiles.git
